@@ -98,7 +98,8 @@ span {
 .home-img img {
     width: 25vw;
     animation: floatImage 4s ease-in-out infinite;
-    border-radius: 05rem;
+    margin-top: -10rem;
+    
 }
 
 @keyframes floatImage{
@@ -165,7 +166,10 @@ span {
 }
 
 .about-img img{
+    position: relative;
     width: 25vw;
+    margin-top: -10rem;
+    right: 10rem;
 }
 
 .heading {
@@ -286,7 +290,7 @@ span {
 .portfolio .heading {
     font-size: 5rem;
     position: relative;
-    top: -20px;
+    top: -20px; 
     
 }
 
@@ -512,6 +516,17 @@ span {
 
     .contact from .input-box input {
         width: 100%;
+    }
+
+    .home-img img{
+        width: 60vw;
+        margin-top: -7rem;
+    }
+    .about-img img{
+        width: 60vw;
+        margin-top: -8rem;
+        position: relative;
+        left: 0rem;
     }
 }
 
