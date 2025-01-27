@@ -7,7 +7,6 @@ This portfolio website serves as a digital resume where I display my technical e
 
 ## 🛠️ Tech Stack
 - **Frontend:** HTML, CSS, JavaScript
-- **Frameworks:** Bootstrap / Tailwind CSS (if applicable)
 - **Deployment:** GitHub Pages
 
 ## ✨ Features
